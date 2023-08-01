@@ -7,3 +7,7 @@ img{
     height: 500px;
     width: auto;
 }
+h1,h3,h4,p,img,ol,ul{
+    border: solid white 5px;
+    margin-bottom: 20px;
+}

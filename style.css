@@ -3,4 +3,15 @@ body{
     color: black;
     text-align: center;
 }
-
+img{
+    margin-bottom: 100px;
+    border: solid pink 10px;
+}
+h1{
+    margin-bottom: 100px;
+    border: solid green 10px;
+}
+a{
+    margin-bottom: 50px;
+    display: block;
+}
